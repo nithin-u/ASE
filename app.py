@@ -2,4 +2,4 @@ def add(a, b):
     return a - b
 
 if __name__ == "__main__":
-    print("5 - 8 =", add(5, 8))
+    print("5 + 8 =", add(5, 8))
